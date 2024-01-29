@@ -6,6 +6,8 @@
 - Pronouns: Redacted
 - Fun fact: Ants (and many others) are immune to fall damage.
 
+  -ps. I removed all the emojis because I thought they were silly, but I now think things look more boring.
+
 <!---
 Frostmarrow/Frostmarrow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
